@@ -1,0 +1,18 @@
+# Function basics
+// Function is an code inside code that works to make things more efficient. For example if we have many print codes lets say 10 of them.
+Its not  gonna be efficient if we copy and paste the whole entire thing into the code. That's why function was made.
+// Now lets make a basic function code so we can make it easy.
+
+Function MyFunction()
+  print("hello word")
+end
+
+MyFunction()
+
+// Now that code above us is an code for function. Inside function there will be a code and ended with a "end".
+// To make the function work, we can say "MyFunction()" like that above. It will make the function work based on the code inside.
+// If we repeat that until 10 times, it will print the "hello word" 10 times. Why?
+// Basically like i say when we call the code once it will make the function work once.
+// So if we do it 10 times, it will make the function work 10 times based on the code inside.
+
+// This is just an basics of function to make you more understand. 
