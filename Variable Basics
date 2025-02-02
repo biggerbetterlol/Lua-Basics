@@ -1,0 +1,21 @@
+# Variable Basics
+// Variable is something you can call for an code. Variable is easy to make and you can name it anything. It mostly used for alternative
+so it cna be easier to call something.
+
+# Variable on prints
+// Lets say our variable name is "MyVariable". Now to make this work we just need value for the variable.
+MyVariable = Hello Word
+// The code above give the variable a value. The value is "Hello Word". When we use it in prints it would be like this.
+MyVariable = Hello Word
+print(MyVariable)
+// The line above will print "Hello Word". Why you may ask, basically we give the variable an value of "Hello Word". 
+So when we print the MyVariable, it will print Hello Word because its the value of the variable.
+// This will help so much on long words to make it more efficient. 
+
+# Variable on function
+// Variable on function is basically the same as prints. But the variable is just for calling the function. 
+// Now example if say the variable is "MyFunction", we can call that to make the function work.
+// Also dont forget to add () for the function.
+
+# Variable on other things
+// Variable can be used for almost everything and very important in programming. This is only the basics so you can understand for other advanced things.
