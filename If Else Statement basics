@@ -1,0 +1,21 @@
+# If Statement
+// If Statement is telling you when the conditions is true, then it will do what the code say. For example:
+if 2 + 2 = 4
+then
+   print ("the addition is true")
+
+// the line above is telling IF 2 = 2 = 4 then it should print  "the addition is ture".
+// so it just telling a basic logic when the conditions is true then it should print that.
+
+# Else Statement
+// Else statement is telling you when the conditions is false, then it will do what the code say next.
+if 2 + 2 = 4
+then
+   print ("the addition is true")
+else
+   print ("the addition is false")
+
+// Else will work when we say 2 + 2 = 5
+// It will skip if because its not true, so it will goes to else and say "the addition is false"
+
+// These is only basics, its just introducting you so you can understand more later.
