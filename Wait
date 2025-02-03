@@ -1,0 +1,12 @@
+# Wait
+// Wait is a code that will stop other code below it. It will stop with how much amount of time it give.
+// For example, lets say we gonna make it 1 second. Then it would be like this.
+
+Wait( 60 )
+// The Wait function also uses milisecond so dont use "1" because it will make it 1 milisecond.
+// Now if there a 2 print code like this:
+print("hello")
+wait( 60 )
+print("hi")
+// That code will stop the "hi" one. Why? Because above print "hi" code is a wait( 60 ) meaning 1 second. 
+// So it will pause the hi print code for 1 second because the hi printcode is below the wait function.
